@@ -1,16 +1,13 @@
-# flutter_application_1
+# Frontend Projects
 
-A new Flutter project.
+## Teck Stack
+- Flutter
+- Dart
 
-## Getting Started
+## Dependencies
+-  Googlefonts
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![ModernApartment](https://github.com/Mayank2001-iron/Frontend-Projects/assets/76560885/259c780a-bf48-43c0-b391-71814ec80321)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WaterSpace](https://github.com/Mayank2001-iron/Frontend-Projects/assets/76560885/9162e8dc-906e-4154-84a0-6efe3fcfa599)
